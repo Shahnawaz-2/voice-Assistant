@@ -1,2 +1,3 @@
 # voice-Assistant
 Jarvis
+I developed a voice assistant using Python that can interact with users through speech recognition and text-to-speech capabilities. The assistant is able to process voice commands and perform tasks such as searching the web, opening applications, telling the date and time, fetching weather updates, playing music, and answering general queries. It integrates libraries like SpeechRecognition, pyttsx3, and datetime, and can be extended further with APIs for more advanced functionalities. This project demonstrates my skills in Python programming, natural language processing, and automation.
